@@ -1,5 +1,5 @@
 # Portfolio-Website
-In this project, i have made an responsite portfolio website using bootstraps 
+In this project, i have made an responsive portfolio website using bootstraps 
 
 # Files used:
 * css file(portfolio.css)
