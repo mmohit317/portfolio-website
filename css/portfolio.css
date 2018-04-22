@@ -1,0 +1,77 @@
+/* sizing of box*/
+*{
+  box-sizing: border-box;
+  }
+
+
+/*styling the heading*/
+.name
+{
+  margin-top: 0.5em;
+  font-size: 100px;
+  color: #7d97ad;
+}
+
+
+/*styling the sub-heading*/
+.occupation
+{
+    font-size: 65px;
+    color: #7d97ad;
+}
+
+
+/*margining of container*/
+.container
+{
+    margin-top: 1em;
+}
+
+
+/*sizing of logo*/
+.logo-size
+{
+    margin-top: 2em;
+    display: inline-block;
+}
+
+
+/*styling of featured-work heading*/
+.featured-heading
+{
+  margin-top: 1em;
+  color: #7d97ad;
+}
+
+
+/*sizing of main cover image*/
+.coverimage
+{
+  height: 600px;
+  width:1150px;
+  max-width: 100%;
+}
+
+
+/*giving margins to all the images of image class*/
+.image
+{
+    margin-top: 2em;
+    margin-bottom: 1em;
+}
+
+
+/*setting the size of images*/
+.imgsize
+{
+  width: 350px;
+  height:300px;
+}
+
+
+/*styling of caption written below images*/
+.names
+{
+  text-align: center;
+  color:#2d3c49;
+}
